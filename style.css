@@ -11,7 +11,9 @@ body
 }
 h1
 {
-	color:#808080;
+  border-width: 10px;
+    border-style: solid;
+    color:blue;
 }
 h2
 {
@@ -46,3 +48,4 @@ text-shadow:#2A3F55;
 	 border:solid 1px #808080;
 	 padding:8px;
 }
+
